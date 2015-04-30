@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>Knoxville Air Quality</title>
+</head>
+<body>
+<div style="font-family:Georgia;font-size:300%">Knoxville Air Quality Improving Since 2008</div>
+<div style="font-family:arial;font-size:100%">Since 2009, Knoxville’s air quality improved dramatically due to new state and federal environmental regulations, according to data from the EPA Air Quality Index.
+Improvement for air quality in Knoxville from 1980 to 2007 was stagnant until new environmental regulations governing fuel efficiency for vehicles and carbon emissions for power plants were introduced, according to AQI data for Knoxville from 1980 to 2014.
+The EPA’s Air Quality Index produces a number from 0-500 ranking the quality of the air. The index relies on a formula based on the level of ground-level ozone, particulate matter, carbon monoxide, sulfur dioxide and nitrogen dioxide in the air. 
+The values indicate the quality of the air, which can be polluted by carbon emissions or other industrial byproducts. 
+Knoxville’s long-term air quality is measured by looking at the number of days from a given year that the city’s air was categorized as Good, Moderate, Unhealthy for Sensitive Groups, Unhealthy, Very Unhealthy, or Hazardous, the six levels the EPA uses to measure air quality.
+From 1980 to 2014, Knoxville averaged 169 days of Moderate air quality, 106 days of Good air and 79 days of Unhealthy for Sensitive Groups, each year.
+From 2008 to 2014 however, Knoxville had dramatically improved air quality thanks to improved regulations concerning air pollution, averaging 223 days of Good air, 123 days of Moderate air and 18 days of air that was Unhealthy for Sensitive Groups, each year. 
+In 2013 and 2014, Knoxville did not record a single day that was below Moderate quality, the first time this has happened since records began.
+In 2009, Knoxville for the first time recorded more days of Good air than Moderate, 272 days to 73 days, respectively.
+From 2009 to 2011 was also the first time the records show no days of Unhealthy air, and in 2013 the city did not record a single day of air that ranked as Unhealthy for Sensitive Groups.
+People whose immune systems are weakened from other illnesses, the elderly and children are particularly at risk from poor air quality, said Erin Gill, director of sustainability for the city of Knoxville.
+“For those vulnerable populations, when you have an air quality alert day, it means there’s additional particulate matter and other pollutants that are entering your lungs and that causes all sorts of problems,” she said.
+State and federal regulations for more fuel efficient vehicles and fuel consumption, as well as sharp reductions in carbon emissions by TVA have both improved air quality in recent years, Gill said. 
+In 2011, TVA reached an agreement with the EPA and other environmental groups that locked in targets for reductions in carbon emissions, which include closing several of its aging coal fired reactors, making its current fossil fuel plants more efficient and invest more heavily in renewable energy such as nuclear power and wind.
+However, TVA spokesman Scott Brooks downplayed the role the federal corporation has in effecting air quality.
+“[TVA] is just one piece of the puzzle when you have three major interstates that converge in the valley and runs through Knoxville,” Brooks said. 
+TVA has invested $6 billion in reducing air emissions over the past 20 years, decreasing its sulfur dioxide and nitrous oxide emissions by between 90 and 95 percent from 1995 levels, he said.
+Emissions levels of both chemicals contribute to air pollution and make up the AQI score.
+<script type='text/javascript' src='https://public.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 982px; height: 742px;'><noscript><a href='#'><img alt='Sheet 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Kn&#47;KnoxvilleAirQuality&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' width='982' height='742' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='site_root' value='' /><param name='name' value='KnoxvilleAirQuality&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Kn&#47;KnoxvilleAirQuality&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='showVizHome' value='no' /><param name='showTabs' value='y' /><param name='bootstrapWhenNotified' value='true' /></object></div>
+</body>
+</html>
